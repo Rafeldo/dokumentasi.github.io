@@ -4,15 +4,15 @@ Ini dokumentasi Project Mnagemnt Sistem berbasis Codeigniter Live Demo Silahkan 
 ======================================                                                       
 
 1. Login Demo Admin :
-    email : rafeldo29@gmail.com
-    passsword : rafeldo
+    1.email : rafeldo29@gmail.com
+    2.passsword : rafeldo
 
 
 2.Login Demo Client :
-    email : client@rafeldo.com
-    passsword : client123
+    1.email : client@rafeldo.com
+    2.passsword : client123
 
 3.Login Demo Team:
-    email : team@rafeldo.com
-    passsword : team123
+    1.email : team@rafeldo.com
+    2.passsword : team123
 
